@@ -16,3 +16,8 @@
         14. augmentedDivision.js
         15. escapingLiteralQuoteInString.js
         16. lengthOfString.js
+        17. bracketNotationFirstCharInString.js
+        18. bracketNotationLastCharInString.js
+        19. arrays.js
+        20. nestingArrays.js
+        21. accessArrayDataWithIndexes.js
